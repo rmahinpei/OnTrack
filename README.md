@@ -1,6 +1,6 @@
 # OnTrack
 ## Purpose
-The constant business of the world leads many individual neglect and sacrifice their own personal health, which can result in long-term adverse effects on the individual. To break this cycle and encourage more individuals to stay on top of their physical health, OnTrack was created, an interactive program allowing users to track their caloric intake and physical activity.
+The constant business of the world leads many individual neglect and sacrifice their own personal health, which can result in long-term adverse effects on the individual. To break this cycle and encourage more individuals to stay on top of their physical health, OnTrack was created, an interactive Python application allowing users to track their caloric intake and physical activity.
 
 ## Key Features
 OnTrack allows the user to track their:
